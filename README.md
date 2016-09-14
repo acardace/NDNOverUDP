@@ -77,8 +77,7 @@ here are few ideas for further development:
 * add optional-fields to Interest and Data packets;
 * implement Directed-Diffusion routing;
 
-Although there is plenty of room for improvements, since this
-is a proof of concept, the library is ready for local contexts and
-easy to use for developers wishing to integrate NDN protocol in their local networks, anyone wishing to contribute is more than welcome!
+Although there is plenty of room for improvements, since this is a proof of concept, the library is ready for local contexts and easy to use for developers wishing to integrate NDN protocol in their local networks, anyone wishing to contribute is more than welcome!
+
 ------------------------------------------------------------
 Copyright (C) **Antonio Cardace** and **Davide Aguiari** 2016, antonio@cardace.it
