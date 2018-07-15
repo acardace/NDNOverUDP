@@ -1,7 +1,7 @@
-NDNOverUDP		KEYWORD1
-begin			KEYWORD2
-stop			KEYWORD2
+NDNOverUDP	KEYWORD1
+begin	KEYWORD2
+stop	KEYWORD2
 publishInterests	KEYWORD2
-startDaemon		KEYWORD2
+startDaemon	KEYWORD2
 dumpRoutingTable	KEYWORD2
-addNDNNodes		KEYWORD2
+addNDNNodes	KEYWORD2
